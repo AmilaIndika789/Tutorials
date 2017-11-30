@@ -238,7 +238,7 @@ public class CommentActivity extends NBBaseActivity {
     public void removePhoto(View view1) {
         if (imageFile != null) {
             imageFile = null;
-
+            ggsggsdfgwsg
             RelativeLayout tPreviewLayout = (RelativeLayout)findViewById(R.id.photo_preview_layout);
             tPreviewLayout.setVisibility(View.GONE);
 
