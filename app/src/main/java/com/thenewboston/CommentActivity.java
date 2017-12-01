@@ -235,7 +235,7 @@ public class CommentActivity extends NBBaseActivity {
         return cursor.getString(column_index);
     }
 
-    public void removePhoto(View view1) {
+    public void removePhoto(View view) {
         if (imageFile != null) {
             imageFile = null;
 
